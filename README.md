@@ -1,1 +1,1 @@
-# Template.CarPackage
+An awesome community car.
