@@ -1,0 +1,9 @@
+{
+  "name": "Your_Custom_Car_Name",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "An awesome community car",
+  "dependencies": [
+    "CustomCarMod (will need to be edited)"
+  ]
+}
